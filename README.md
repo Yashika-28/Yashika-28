@@ -1,5 +1,31 @@
 # About Me:
-Hi, I'm Yashika 👋<br><br>Final-year B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**. I build intelligent systems that solve everyday problems we've all faced growing up—because tech should make life better, not just flashier.<br><br>I've had the thrill of winning multiple international hackathons, including:<br><br>🏆 **VisionNova Hackathon 2026**  <br>🏆 **Google Cloud GenAI Hackathon 2025**<br><br>These wins came from turning creative, out-of-the-box ideas into working prototypes that tackle real societal challenges.<br><br>**Core skills**  <br>- Backend & ML/DL development → Java, Python, TensorFlow/PyTorch, model training & deployment  <br>- Full-stack creativity → Designing stunning, modern, next-gen frontends (I vibe-code beautiful UIs that feel alive ✨)  <br>- End-to-end product thinking → From ideation → ML model → polished UI/UX → deployment<br><br>I'm passionate about:  <br>- Using AI/ML to address local & social issues (education gaps, environment, accessibility, mental health, rural challenges…)  <br>- Experimenting with emerging tech (GenAI, multimodal models, agentic systems…)  <br>- Collaborating on meaningful open-source projects<br><br>Currently exploring agentic AI personalised virtual clone.<br><br>Open to collaborations, internships, or just geeking out over code + ideas. Let's build something impactful! 🚀
+Hi, I'm Yashika 👋<br><br>
+
+B.Tech Computer Science Engineering graduate with a focus on <b>Artificial Intelligence & Machine Learning</b>. I enjoy building AI-powered applications that solve practical problems and turn ideas into working products.<br><br>
+
+🏆 <b>SmartAI Hackathon 2025 — Winner</b><br>
+Developed Tryly, an AI-powered virtual clothing assistant providing personalized outfit recommendations.<br><br>
+
+🏆 <b>Google Cloud GenAI Exchange Hackathon 2025 — Finalist</b><br>
+Developed Kalasakhi, a GenAI platform designed to support local artisans.<br><br>
+
+<b>Technical Skills</b><br>
+- <b>Languages:</b> Java, Python, C, SQL<br>
+- <b>AI/ML:</b> TensorFlow, Scikit-learn, Azure Computer Vision<br>
+- <b>Databases:</b> MySQL<br>
+- <b>Cloud:</b> Microsoft Azure<br>
+- <b>Concepts:</b> Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks<br>
+- <b>Tools:</b> Git, GitHub<br><br>
+
+<b>Projects</b><br>
+- <b>PAKU:</b> Autonomous Virtual Meeting Agent using local LLMs, RAG, RVC and Kokoro<br>
+- <b>Gaze-based Text Entry System:</b> Deep-learning based hands-free text entry using MediaPipe, GazeBase and LSTM<br>
+- <b>Password Generator & Manager:</b> Java application for secure password generation and management<br><br>
+
+<b>Currently Exploring</b><br>
+Generative AI, agentic AI, multimodal systems and AI-powered applications.<br><br>
+
+Open to collaborating on meaningful AI/ML and software development projects. 🚀
 
 
 ## 🌐 Socials:
