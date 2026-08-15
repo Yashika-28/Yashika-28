@@ -1,6 +1,6 @@
 # About Me:
-Hi, I'm Yashika 👋<br><br>
-B.Tech Computer Science Engineering graduate with a focus on <b>Artificial Intelligence & Machine Learning</b>. I enjoy building AI-powered applications that solve practical problems and turn ideas into working products.<br><br>
+Hi, I'm Yashika 👋<br>
+B.Tech Computer Science Engineering graduate with a focus on <b>Artificial Intelligence & Machine Learning</b>. I enjoy building AI-powered applications that solve practical problems and turn ideas into working products.<br>
 🏆 <b>SmartAI Hackathon 2025 — Winner</b><br>
 Developed Tryly, an AI-powered virtual clothing assistant providing personalized outfit recommendations.<br><br>
 🏆 <b>Google Cloud GenAI Exchange Hackathon 2025 — Finalist</b><br>
@@ -14,8 +14,7 @@ Developed Kalasakhi, a GenAI platform designed to support local artisans.<br><br
 - <b>Tools:</b> Git, GitHub<br><br>
 
 <b>Currently Exploring</b><br>
-Generative AI, agentic AI, multimodal systems and AI-powered applications.<br><br>
-
+Generative AI, agentic AI, multimodal systems and AI-powered applications.<br>
 Open to collaborating on meaningful AI/ML and software development projects. 🚀
 
 
