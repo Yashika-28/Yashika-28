@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Yashika 👋<br>
+Hi, I'm Yashika 
 B.Tech Computer Science Engineering graduate with a focus on <b>Artificial Intelligence & Machine Learning</b>. I enjoy building AI-powered applications that solve practical problems and turn ideas into working products.<br><br>
 🏆 <b>SmartAI Hackathon 2025 — Winner</b><br>
 Developed Tryly, an AI-powered virtual clothing assistant providing personalized outfit recommendations.<br><br>
